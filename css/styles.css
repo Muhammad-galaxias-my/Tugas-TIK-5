@@ -1,0 +1,110 @@
+*{
+justify-content: center;
+align-content: justify center;
+}
+
+body{
+    background-color: azure;
+}
+
+img{
+    width: 700px;
+    border-radius: 50px;
+    border: solid;
+}
+
+.judul{
+background-color: grey;
+border-radius: 8px;
+font-size: 20px;
+justify-content: center;
+align-items: center;
+width: 850px;
+margin: 0 auto 0;
+}
+.pengertian{
+    background-color: rgb(253, 251, 212);
+    padding: 10px;
+    border-radius: 20px;
+    width: 700px;
+    margin: 0 auto;
+}
+.fitur-kunci{
+    background-color: rgb(253, 251, 212);
+    padding: 10px;
+    border-radius: 20px;
+    width: 700px;
+    margin: 0 auto;
+}
+p>span{
+    color: red;
+}
+
+.gratis{
+    color: yellow;
+    background-color: black;
+    padding: 0 7px;
+}
+
+p{
+    padding-left: inherit;  
+    padding-right: inherit; 
+}
+
+h2{
+    border: 2px solid yellowgreen; 
+    text-align: center;
+    width: 400px;
+    padding: 10px;
+    margin: 30px auto;
+}
+
+.dari{
+    color: coral;
+}
+
+.ai{
+    color: aquamarine;
+    background-color: blue;
+    padding: 0 7px;
+}
+
+.li1{
+    color: violet;
+}
+
+.li2{
+    color: yellow;
+}
+
+.li3{
+    color: turquoise;
+}
+
+.li4{
+    color: tomato;
+}
+
+.li5{
+    color: aqua;
+}
+
+.li6{
+    color: brown;
+}
+
+.li7{
+    color: bisque;
+}
+
+.li8{
+    color: red;
+}
+
+.daftar{
+    background-color: rgb(65, 45, 45);
+    border-radius: 20px;
+    width: auto;
+    padding: 19px;
+}
+
